@@ -1,0 +1,11 @@
+{
+  "name": "hvc-calendar-alexa-skills",
+  "version": "1.0.0",
+  "description": "Alexa skill for showing the HVC trash collecting day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jair Foro <jairforo@gmail.com>",
+  "license": "ISC"
+}
